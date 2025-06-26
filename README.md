@@ -4,15 +4,17 @@
 
 **关于本文**
 
-本文旨在为有志于了解与入门算法竞赛的大学新生及其他学习者提供一份系统的引导。
+本文旨在为有志于了解与入门算法竞赛的大学新生及其他学习者提供一份较为系统的讲解与引导。
 
-作者Resot的知乎主页为[resot](https://www.zhihu.com/people/resot)
+作者：Resot
 
-GitHub主页为[【打破信息差】萌新认识与入门算法竞赛](https://github.com/NullResot/xcpc)
+知乎主页：[Resot](https://www.zhihu.com/people/resot)
+
+GitHub主页：[【打破信息差】萌新认识与入门算法竞赛](https://github.com/NullResot/xcpc)
 
 **版权与使用声明**
 
-本文已在GitHub平台开源，欢迎大家通过提交**Issues**为本文的内容充实与完善贡献力量。同时，我们开放本文的**非商业性转载权限**，但严禁将本文用于任何形式的商业用途。
+本文已在GitHub平台开源，欢迎大家通过提交**Issues**为本文做内容补充与完善。同时开放本文的**非商业性转载权限**，严禁将本文用于任何形式的商业用途。
 
 **核心目标**
 
