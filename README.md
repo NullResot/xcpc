@@ -10,6 +10,8 @@
 
 本文章完成于 2025年6月26日。
 
+后续或有对内容的修正与补充，最新版内容请以GitHub版本为准。
+
 作者：Resot
 
 知乎主页：[Resot](https://www.zhihu.com/people/resot)
@@ -75,7 +77,7 @@ GitHub主页：[【打破信息差】萌新认识与入门算法竞赛](https://
 | rp++    | 人品加一，用于表示祝福。                                     |
 | bx      | 拜谢 的简写。                                                |
 | orz/or2 | orz看起来像一个人认输跪倒在地，or2的屁股更翘。               |
-| tql     | 太强了的简写。                                               |
+| tql     | 太强了 的简写。                                              |
 | %/膜    | 膜拜 的简写。                                                |
 
 ## 竞赛概念
@@ -511,8 +513,9 @@ XCPC赛事的核心是**三人团队协作**。一个高效的团队远超个人
 | [oj.daimayuan.top/courses](http://oj.daimayuan.top/courses)  | 代码源 OJ 的系统化课程+评测，适合配套课程学习。              |
 | [leetcode.cn](https://leetcode.cn/)                          | 力扣中国站，面向面试算法题练习与周赛活动的主流平台。         |
 | [vjudge.net](https://vjudge.net/)                            | Virtual Judge是一个独特的在线平台，允许用户从包括POJ、ZOJ、UVA、CodeForces等在内的众多标准在线评测系统中获取问题。它能够模拟提交并接收评测结果，极大地方便了用户组织各种编程竞赛，即使在没有现成测试数据的情况下也能进行。 |
-| [acm.hdu.edu.cn](https://acm.hdu.edu.cn/)                    | 杭州电子科技大学在线判题系统（HDOJ），暑假期间会举办杭电多校，通过该网站参加多校。 |
+| [acm.hdu.edu.cn](https://acm.hdu.edu.cn/)                    | 杭州电子科技大学在线判题系统（HDOJ），暑假期间会举办杭电多校，通过该网站参与多校。 |
 | [clist.by](https://clist.by/)                                | Clist.by是一个全球性的编程竞赛日程聚合网站。它收集并整合了来自Codeforces、AtCoder、Google Contests等多个平台的即将到来和正在进行的编程比赛信息。 |
+| [yuantiji.ac](http://yuantiji.ac/zh/)                        | 原题机，可以将题面放到原题机搜索，就可以找到题面的出处或者是题面相似的题目。一般用来检查新创作的一道题是不是新题。 |
 | [oiwiki.org](https://oiwiki.org/)                            | OI Wiki是一个开放、协作、专业的算法竞赛知识库。它涵盖了从基础到进阶的各种算法、数据结构、数学等信息学奥赛相关知识，是学习算法竞赛理论知识和解题技巧的宝贵资源。该网站致力于为算法竞赛爱好者提供全面、准确的学习资料和参考指南。 |
 | [icpc.global](https://icpc.global/)                          | ICPC 国际大学生程序设计竞赛官网，用于报名ICPC的比赛。        |
 | [acmer.info](https://acmer.info/)                            | acmer.info被认为是为ACM/ICPC（国际大学生程序设计竞赛）爱好者提供信息和交流的平台。它经验分享以及社区讨论等内容，旨在为参赛者提供一个互相学习和共同进步的社区环境。 |
