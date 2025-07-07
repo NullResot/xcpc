@@ -18,6 +18,8 @@
 
 GitHub主页：[【打破信息差】萌新认识与入门算法竞赛](https://github.com/NullResot/xcpc)
 
+博客wiki版本：[【打破信息差】萌新认识与入门算法竞赛](https://nullresot.github.io/xcpc-wiki/)
+
 **版权与使用声明**
 
 本文已在GitHub平台开源，欢迎大家通过提交**Issues**为本文做内容补充与完善。同时开放本文的**非商业性转载权限**，严禁将本文用于任何形式的商业用途。
