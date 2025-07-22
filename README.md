@@ -10,7 +10,7 @@
 
 本文章首次完成于 2025年7月1日。
 
-本文章最近一次更新于 2025年7月7日。
+本文章最近一次更新于 2025年7月22日。
 
 后续或有对内容的修正与补充，最新版内容请以GitHub版本为准。
 
@@ -526,6 +526,7 @@ XCPC赛事的核心是**三人团队协作**。一个高效的团队远超个人
 | [xcpcboard](https://board.xcpcio.com/)                       | xcpcboard是一个用于展示XCPC（中国大学生程序设计竞赛）实时排行榜的平台。 |
 | [cpcfinder](https://cpcfinder.com/)                          | 由代码源开发，可以通过姓名/学校来查询个人/学校的获奖情况。   |
 | [icpc.pku.edu.cn](https://icpc.pku.edu.cn/index.htm)         | icpc北京总部，是非常重要的信息网站，用于查看ICPC比赛通知/信息。 |
+| [cpc duel](https://algorithm-duels.online/)                   | 双方各自组成 1~3 人的队伍，之后在随机生成的若干道题目上对决，在原 OJ（目前仅支持 CF）上通过题目后可以点<判题>赢得该题目，每题率先通过的队伍获得对应的分数，率先得到总分一半的队伍获胜。|
 
 ### codeforces
 
