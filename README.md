@@ -612,11 +612,11 @@ Codeforces Div1/2/1+2 为基于 ACM 赛制的 CF 赛制，其核心要点为题�
 | [1600, 1900) | expert                             | 蓝名 |
 | [1900, 2100) | candidate master                   | 紫名 |
 | [2100, 2300) | master                             | 橙名 |
-| [2300, 2400) | international master               | 黄名 |
+| [2300, 2400) | international master               | 橙名 |
 | [2400, 2600) | grandmaster                        | 红名 |
 | [2600, 3000) | international grandmaster          | 红名 |
 | [3000, 4000) | legendary grandmaster              | 黑红 |
-| 4000+        | jiangly/tourist （以你的id命名！） | 红黑 |
+| 4000+        | jiangly/tourist （以你的id命名！）  | 红黑 |
 
 ### atcoder
 
