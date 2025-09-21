@@ -1,6 +1,49 @@
-# 【打破信息差】萌新认识与入门算法竞赛
-
->祝愿每一位选手都可以在竞赛中享受一份纯粹的快乐。
+><!DOCTYPE html>
+><html lang="zh-CN">
+><head>
+><meta charset="UTF-8">
+><title>算法竞赛入门封面</title>
+><style>
+>  /* 预定义一些优雅的中文字体 */
+>  .font-title {
+>    font-family: 'Heiti SC', 'Microsoft YaHei', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;
+>    font-weight: bold;
+>  }
+>  .font-author {
+>    font-family: 'Kaiti', 'KaiTi_GB2312', 'STKaiti', 'SimSun', serif;
+>  }
+>  .font-body {
+>    font-family: 'FangSong', 'STFangsong', 'SimSun', serif;
+>  }
+></style>
+></head>
+><body>
+><div class="cover" style="width: 100%; height: 100vh; border: none; margin: 0; text-align: center; display: flex; flex-direction: column; justify-content: space-between; padding: 5vh 0;">
+>  <div class="top-section">
+>    <div style="width: 25%; min-width: 150px; max-width: 200px; margin: 0 auto;">
+>      <img src="assets/resot.png" alt="校徽" style="width: 100%;"/>
+>    </div>
+>    <br>
+>    <div class="font-title" style="font-size: 22pt; margin: 20pt auto; line-height: 1.5;">
+>      <span>【打破信息差】</span>
+>      <br>
+>      <span>萌新认识与入门算法竞赛</span>
+>    </div>
+>  </div>
+>  <div class="combined-bottom" style="padding-bottom: 2vh;">
+>    <div class="author-date-section font-author" style="display: inline-block; text-align: left; font-size: 12pt; line-height: 1.8; margin-bottom: 18px;">
+>      <p style="margin: 0;">作　　者：Resot</p>
+>      <p style="margin: 0;">日　　期：2025年9月</p>
+>    </div>
+>    <div class="footer font-body">
+>      <p style="text-align: center; font-size: 10pt; margin: 0 auto; font-style: italic; font-weight: 300; color: #555;">
+>        祝愿每一位选手都可以在竞赛中享受一份纯粹的快乐。
+>      </p>
+>    </div>
+>  </div>
+></div>
+></body>
+></html>
 
 ## 阅前须知 
 
@@ -707,7 +750,7 @@ XCPC赛事的核心是**三人团队协作**。一个高效的团队远超个人
 
 #### 主页
 
-![天梯赛主页](C:/Users/28119/AppData/Roaming/Typora/typora-user-images/image-20250609221707721.png)
+![天梯赛主页](C:\Users\28119\Desktop\xcpc-main\assets\image-20250609221707721-1758466314417-1.png)
 
 #### 报名
 
@@ -715,7 +758,7 @@ XCPC赛事的核心是**三人团队协作**。一个高效的团队远超个人
 
 如果在这之前你的学校从来没有参与过，那么报名首先你需要申请教练账号，按照下图申请即可
 
-![天梯赛报名页面1](C:/Users/28119/AppData/Roaming/Typora/typora-user-images/image-20250609221634725.png)
+![天梯赛报名页面1](C:\Users\28119\Desktop\xcpc-main\assets\image-20250609221634725-1758466314417-2.png)
 
 ![天梯赛报名页面2](assets/15.png)
 
@@ -772,7 +815,7 @@ XCPC赛事的核心是**三人团队协作**。一个高效的团队远超个人
 | [xcpcboard](https://board.xcpcio.com/)                       | xcpcboard是一个用于展示XCPC（中国大学生程序设计竞赛）实时排行榜的平台。 |
 | [cpcfinder](https://cpcfinder.com/)                          | 由代码源开发，可以通过姓名/学校来查询个人/学校的获奖情况。   |
 | [icpc.pku.edu.cn](https://icpc.pku.edu.cn/index.htm)         | icpc北京总部，是非常重要的信息网站，用于查看ICPC比赛通知/信息。 |
-| [cpc duel](https://algorithm-duels.online/)                   | 双方各自组成 1~3 人的队伍，之后在随机生成的若干道题目上对决，在原 OJ（目前仅支持 CF）上通过题目后可以点<判题>赢得该题目，每题率先通过的队伍获得对应的分数，率先得到总分一半的队伍获胜。|
+| [cpc duel](https://algorithm-duels.online/)                  | 双方各自组成 1~3 人的队伍，之后在随机生成的若干道题目上对决，在原 OJ（目前仅支持 CF）上通过题目后可以点<判题>赢得该题目，每题率先通过的队伍获得对应的分数，率先得到总分一半的队伍获胜。 |
 
 
 
@@ -810,16 +853,16 @@ XCPC赛事的核心是**三人团队协作**。一个高效的团队远超个人
 
 这里额外说一点，cf常见的比赛分为div1,div2,div3,div4, edu
 
-| 类别        | 计分区域                                                 | 备注                         |
-| ----------- | -------------------------------------------------------- | ---------------------------- |
-| div1        | 1900+                                                    | 难度最高，一般A题是div2的C题 |
-| div2        | 如果同时举办div1: [0, 1900)，如果单独举办div2：[0, 2100) | 最常举办的比赛               |
-| div3        | [0, 1600)                                                | 同样适用于新手参与的比赛     |
-| div4        | [0, 1400)                                                | 最简单的比赛                 |
-| edu         | [0, 2100)，一般对标div2                                  | 会出很多典题，比较教育选手   |
-| div1 + div2 | all                                                      |                              |
-Codeforces Div3/4 & Educational Div2 为 ACM 赛制
-Codeforces Div1/2/1+2 为基于 ACM 赛制的 CF 赛制，其核心要点为题目具有初始分值，随比赛时间进行流逝，错误提交由罚时 20 分钟改为罚分 50 ，以积分进行排行。
+| 类别                                                         | 计分区域                                                 | 备注                         |
+| ------------------------------------------------------------ | -------------------------------------------------------- | ---------------------------- |
+| div1                                                         | 1900+                                                    | 难度最高，一般A题是div2的C题 |
+| div2                                                         | 如果同时举办div1: [0, 1900)，如果单独举办div2：[0, 2100) | 最常举办的比赛               |
+| div3                                                         | [0, 1600)                                                | 同样适用于新手参与的比赛     |
+| div4                                                         | [0, 1400)                                                | 最简单的比赛                 |
+| edu                                                          | [0, 2100)，一般对标div2                                  | 会出很多典题，比较教育选手   |
+| div1 + div2                                                  | all                                                      |                              |
+| Codeforces Div3/4 & Educational Div2 为 ACM 赛制             |                                                          |                              |
+| Codeforces Div1/2/1+2 为基于 ACM 赛制的 CF 赛制，其核心要点为题目具有初始分值，随比赛时间进行流逝，错误提交由罚时 20 分钟改为罚分 50 ，以积分进行排行。 |                                                          |                              |
 
 #### contest
 
@@ -877,7 +920,7 @@ Codeforces Div1/2/1+2 为基于 ACM 赛制的 CF 赛制，其核心要点为题�
 | [2400, 2600) | grandmaster                        | 红名 |
 | [2600, 3000) | international grandmaster          | 红名 |
 | [3000, 4000) | legendary grandmaster              | 黑红 |
-| 4000+        | jiangly/tourist （以你的id命名！）  | 红黑 |
+| 4000+        | jiangly/tourist （以你的id命名！） | 红黑 |
 
 ### atcoder
 
@@ -1182,7 +1225,7 @@ Codeforces Div1/2/1+2 为基于 ACM 赛制的 CF 赛制，其核心要点为题�
 ![小熊猫C++正确版本的特征图片](assets/81.png)
 
 > 特征在于，中间是`win64.MinGW64`、末尾是`.exe`。如果你的电脑是32位的，下载中间是`win32.MinGW32`的即可。
-> 
+>
 > 如果你**不懂**什么是32位什么是64位，那么你的电脑肯定是**64位**的，下载`win64.MinGW64`的版本即可
 
 下载完成后点击安装，所有过程无脑下一步即可。注意**安装路径**里面千万**不能有中文**，否则会导致无法使用，最好就**别改安装路径**！！！
