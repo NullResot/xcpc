@@ -1,49 +1,6 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<title>算法竞赛入门封面</title>
-<style>
-/* 预定义一些优雅的中文字体 */
-.font-title {
-font-family: 'Heiti SC', 'Microsoft YaHei', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;
-font-weight: bold;
-}
-.font-author {
-font-family: 'Kaiti', 'KaiTi_GB2312', 'STKaiti', 'SimSun', serif;
-}
-.font-body {
-font-family: 'FangSong', 'STFangsong', 'SimSun', serif;
-}
-</style>
-</head>
-<body>
-<div class="cover" style="width: 100%; height: 100vh; border: none; margin: 0; text-align: center; display: flex; flex-direction: column; justify-content: space-between; padding: 5vh 0;">
-<div class="top-section">
-<div style="width: 25%; min-width: 150px; max-width: 200px; margin: 0 auto;">
- <img src="assets/resot.png" alt="校徽" style="width: 100%;"/>
-</div>
-<br>
-<div class="font-title" style="font-size: 22pt; margin: 20pt auto; line-height: 1.5;">
- <span>【打破信息差】</span>
- <br>
- <span>萌新认识与入门算法竞赛</span>
-</div>
-</div>
-<div class="combined-bottom" style="padding-bottom: 2vh;">
-<div class="author-date-section font-author" style="display: inline-block; text-align: left; font-size: 12pt; line-height: 1.8; margin-bottom: 18px;">
- <p style="margin: 0;">作　　者：Resot</p>
- <p style="margin: 0;">日　　期：2025年9月</p>
-</div>
-<div class="footer font-body">
- <p style="text-align: center; font-size: 10pt; margin: 0 auto; font-style: italic; font-weight: 300; color: #555;">
-   祝愿每一位选手都可以在竞赛中享受一份纯粹的快乐。
- </p>
-</div>
-</div>
-</div>
-</body>
-</html>
+# 【打破信息差】萌新认识与入门算法竞赛
+
+>祝愿每一位选手都可以在竞赛中享受一份纯粹的快乐。
 
 ## 阅前须知 
 
